@@ -1,0 +1,9 @@
+#item-service
+http://localhost:3001/item-service/35
+http://localhost:3001/item-service/decreaseNumber
+#user-service
+http://localhost:3001/user-service/7
+http://localhost:3001/user-service/7/score?score=100
+#order-service
+http://localhost:3001/order-service/123abc
+http://localhost:3001/order-service/

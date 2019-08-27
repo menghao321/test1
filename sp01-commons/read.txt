@@ -1,0 +1,13 @@
+http://localhost:3001/order-service/7
+http://localhost:3001/user-service/7
+http://localhost:3001/item-service/35
+有道：https://note.youdao.com/ynoteshare1/index.html?id=cd06b5757e02a27026e7c5b12898a85c&type=note
+http://localhost:4001/hystrix/monitor?stream=http%3A%2F%2Flocalhost%3A3001%2Factuator%2Fhystrix.stream
+
+
+
+
+
+
+
+
